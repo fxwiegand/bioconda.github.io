@@ -39,6 +39,8 @@ Registry`_.
 .. _`Quay.io`: https://quay.io/organization/biocontainers
 .. _`BioContainers Registry`: https://biocontainers.pro/#/registry
 
+{% include plot.html spec='test'%}
+
 News
 ====
 
